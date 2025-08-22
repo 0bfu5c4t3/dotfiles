@@ -15,10 +15,10 @@ fi
 
 PACMAN_PKGS=(
     bluez bluez-utils blueman
-    rofi pamixer matugen hypridle hyprlock otf-font-awesome
+    rofi pamixer hypridle hyprlock otf-font-awesome
     swww ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-common
-    cava fastfetch neofetch firefox git kitty swaync waybar
-    wlogout grim slurp yazi hyprpicker
+    cava fastfetch firefox git kitty swaync waybar
+    grim slurp yazi hyprpicker
     thunar neovim unzip zip p7zip unrar
     network-manager-applet xdg-user-dirs xdg-utils
     wl-clipboard socat rsync openssh man-db man-pages python python-pip
@@ -28,6 +28,9 @@ YAY_PKGS=(
     ttf-jetbrains-mono-nerd
     grimblast-git
     nmgui
+    matugen
+    neofetch
+    wlogout
 )
 
 echo "==> Installing pacman packages..."
