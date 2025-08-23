@@ -21,7 +21,7 @@ PACMAN_PKGS=(
     grim slurp yazi hyprpicker
     thunar neovim unzip zip p7zip unrar
     network-manager-applet xdg-user-dirs xdg-utils
-    wl-clipboard socat rsync openssh man-db man-pages python python-pip
+    wl-clipboard socat rsync openssh man-db man-pages python python-pip brightnessctl
 )
 
 YAY_PKGS=(
