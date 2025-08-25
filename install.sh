@@ -22,6 +22,8 @@ PACMAN_PKGS=(
     thunar neovim unzip zip p7zip unrar
     network-manager-applet xdg-user-dirs xdg-utils
     wl-clipboard socat rsync openssh man-db man-pages python python-pip brightnessctl
+    xdg-desktop-portal-hyprland xdg-desktop-portal-gtk
+    gtk3 gtk4 gsettings-desktop-schemas gnome-themes-extra
 )
 
 YAY_PKGS=(
