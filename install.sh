@@ -14,7 +14,7 @@ if ! command -v yay &>/dev/null; then
 fi
 
 PACMAN_PKGS=(
-    bluez bluez-utils blueman zsh
+    bluez bluez-utils blueman zsh foot
     rofi pamixer hypridle hyprlock otf-font-awesome
     swww ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-common
     cava fastfetch firefox git kitty swaync waybar
