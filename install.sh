@@ -23,7 +23,7 @@ PACMAN_PKGS=(
     network-manager-applet xdg-user-dirs xdg-utils
     wl-clipboard socat rsync openssh man-db man-pages python python-pip brightnessctl
     xdg-desktop-portal-hyprland xdg-desktop-portal-gtk
-    gtk3 gtk4 gsettings-desktop-schemas gnome-themes-extra
+    gtk3 gtk4 gsettings-desktop-schemas gnome-themes-extra nwg-look
 )
 
 YAY_PKGS=(
